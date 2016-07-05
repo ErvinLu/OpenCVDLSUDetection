@@ -20,4 +20,6 @@
 
 * OpenCV-android-sdk > sdk > native > libs > copy "armeabi", "armeabi-v7a", "mips", "x86" > paste it to the "app" folder of you project
 
+**NOTE: Please download OpenCV Manager on your phones :) GooglePlay Link (https://play.google.com/store/apps/details?id=org.opencv.engine&hl=en)**
+
 **Not sure if this tutorial is complete, please refer to the uploaded files for more details. :)**
